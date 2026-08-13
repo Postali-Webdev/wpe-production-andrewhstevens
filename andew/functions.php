@@ -8,7 +8,7 @@
  */
 /**
  * First, let's set the maximum content width based on the theme's
- * design and stylesheet.
+ * design and stylesheet. Test comment for Git push.
  * This will limit the width of all uploaded images and embeds.
  */
 if (!isset($content_width)) {
