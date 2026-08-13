@@ -1,0 +1,1414 @@
+@media (min-width: 1300px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1275px;
+    }
+    .home-blog-post .container{
+        max-width: 1395px;
+    }
+    .award-wrp {
+        padding-left: calc(50vw - 637px);
+      }
+}
+@media (min-width:1900px){
+    .main-header-wrap .header-logo{
+        max-width: 390px;
+    }
+    .header-rgt {
+        max-width: calc(100% - 390px);
+    }
+}
+
+
+
+@media (min-width: 1400px){
+    .home-testimonial .heading-sc{margin-bottom: 90px;}
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1375px;
+    }
+    .home-blog-post .container{
+        max-width: 1495px;
+    }
+    .award-wrp {
+        padding-left: calc(50vw - 850px);
+      }
+      .areas-served .content p{
+        margin-bottom: 25px;
+      }
+      .areas-served .content ul{margin-bottom: -20px;}
+      .areas-served .content ul li{
+        margin-bottom: 10px;
+      }
+}
+@media (min-width:1400px) and (max-width:1600px){
+    /* .home-page-banner .image img {
+        width: calc(60vw - 100px);
+    } */
+}
+@media (max-width:1450px){
+    .main-header-wrap .container{padding: 0px 20px;}
+    .header_phone_number, .transparent-btn{font-size: 14px;}
+    .nav-menu > ul > li{margin: 0px 5px;}
+    body .nav-menu > ul > li > a{font-size: 14px;}
+   body .home-blog-post .col-wp{padding: 0px 30px;}
+}
+@media (max-width:1400px){
+    body .nav-menu > ul > li > a{font-size: 12px;}
+   body .transparent-btn {
+        font-size: 14px;
+    }
+	body .transparent-btn {
+    font-size: 13px;
+    padding: 11px 15px;
+}
+	.header_phone_number {
+    font-size: 15px;
+    padding: 11px 20px 11px 20px;
+}
+	.call-us-today {
+    margin-left: 15px;
+}
+}
+@media(min-width:1600px){
+   body .areas-served{
+    padding: 130px 0px;
+   }
+   .home-blog-post .blog-title{font-size: 36px;}
+    .why-hire-me .icon-sec{margin: 55px 0px 40px 0px;}
+    .right-content-layout .heading-sc{margin-bottom: 25px;}
+    .right-content-layout{
+        min-height: 885px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .main-header-wrap {
+        padding: 41px 0px;
+      }
+      /* .home-page-banner .row {
+        min-height: calc(100vh - 144px);
+      } */
+   body .inner-page-banner .inner-banner-heading{font-size: 80px;}
+   .container{
+    max-width: 1586px;
+}
+    .home-blog-post .container{
+        max-width: 1706px;
+    }
+}
+@media (min-width:1650px){
+    .container{
+        max-width: 1610px;
+    }
+}
+@media (max-width:1800px){
+    .nav-menu > ul > li > a{
+        font-size: 14px;
+    }
+}
+@media (max-width:1600px){
+    .results-section .content-result-forensic{
+        min-height: 270px;
+    }
+    .results-section .content-result-forensic .title-results{
+        font-size: 18px;
+    }
+    .blog-title h2, .blog-title .h2{font-size: 50px;}
+   
+    .transparent-btn{
+        font-size: 16px;
+        padding: 11px 20px;
+    }
+    .header_phone_number{
+        font-size: 16px;
+        padding: 11px 20px 11px 30px;
+    }
+    .call-icon svg{
+        width: 50px;height: 50px;
+    }
+    .nav-menu > ul.menu > li{
+        margin: 0px 5px;
+    }
+    .main-header-wrap .header-logo{
+        max-width: 250px;
+    }
+    .header-rgt{
+        max-width: calc(100% - 250px);
+    }
+}
+
+@media (min-width:1200px){
+    .award-slider .pa-blk .lft img{max-height: 300px;}
+    .search-panel{height: 180px;}
+        .pa-blk{
+        min-height: 220px;
+        display: flex;
+        align-items: center;flex-wrap: wrap;
+        justify-content: center;
+    }
+    .blog-listing .post-desc{padding-right: 20px;}
+    .lft-sc-ly{
+        width: calc(100% - 444px);
+    }
+    .right-sc-ly{
+    width: 444px;
+}
+    .schedule-consultation .form-control::-webkit-input-placeholder{font-size: 20px;}
+    .schedule-consultation .form-control::-moz-placeholder{font-size: 20px;}
+    .schedule-consultation .form-control:-ms-input-placeholder{font-size: 20px;}
+    .schedule-consultation .form-control::-ms-input-placeholder{font-size: 20px;}
+    .schedule-consultation .form-control::placeholder, .schedule-consultation .form-control{font-size: 20px;}
+   .schedule-consultation .form-control{
+    padding: 18px 15px 18px 15px;
+   }
+    .schedule-consultation .sub-heading{font-size: 24px;}
+    .areas-served ul{margin-bottom: 0;}
+    .home-blog-post .lft a{
+        height: 369px;
+    }
+    /* .home-blog-post .img-fluid{
+        min-height: 370px;object-fit: cover;
+    } */
+    body .meet-sec{padding-top: 70px;}
+    .results-section .icon-sc{margin-top: 40px;margin-bottom: 20px;}
+    .using-forensic-section .top-sc, .using-forensic-section  .btm-sc{
+        width: 1270px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .forensic-section  .row{--bs-gutter-x: 90px;}
+    .andrew-section .row{--bs-gutter-x: 75px;}
+    .forensic-section p, .forensic-section p, .using-forensic-section  p, .using-forensic-section  li{font-size: 20px;}
+    .andrew-section  p{font-size: 20px;}
+    .team-list .team-title{margin-top: -15px;}
+    .team-list .top-sec p{
+        width: 1415px;max-width: 100%;margin-left: auto;margin-right: auto;
+    }
+    .testimonial-list .pagination{
+        width: 1056px;margin-left: auto;margin-right: auto;
+    }
+    .media-info .row2{--bs-gutter-x: 18px;--bs-gutter-y:35px}
+    .testimonial-card{padding: 0px 50px;}
+    .case-result .btn{min-width: 315px;}
+    .testimonial-slider{margin-left: -50px;margin-right: -50px;}
+    body{
+        overflow-x: hidden;
+    }
+    .areas-served .map-sc{text-align: right;}
+    .areas-served .map-sc iframe{
+        width: 694px;
+        max-width: 100%;
+        margin-left: auto;
+    }
+    .header-mobile-menu{display: none;}
+    .home-blog-post .col-wp{padding: 0px 70px;}
+    .meet-sec .content{font-size: 24px;}
+}
+/*******max width******/
+@media (max-width:1700px) {
+    .practice-areas .title{
+        font-size: 24px;
+    }
+}
+@media (max-width: 1600px){
+    .banner-content-wrap{
+        width: 575px;
+    }
+    .home-page-banner .banner_content{
+        font-size: 24px;
+    }
+
+    .home-page-banner .banner_heading {
+        font-size: 55px;
+        line-height: 0.8;
+        padding-bottom: 10px;
+    }
+    .home-page-banner .btn-wrap {
+        margin-top: 40px;
+    }
+    /* .home-page-banner .content_sec {
+        height: 82vh;
+    }
+    .home-page-banner .image img{
+        height: 82vh;
+    }
+
+    .home-page-banner .image img {
+        height: 89vh;
+    } */
+}
+@media (max-width:1441px){
+    /* .home-page-banner .content_sec {
+        height: 87vh;
+    }
+    .home-page-banner .image img {
+        height: 87vh;
+    } */
+}
+@media (max-width:1400px) {
+
+    .home-page-banner .banner_content{
+        font-size: 22px;
+    }
+    .home-page-banner .btn-wrap {
+        margin-top: 30px;
+    }
+    /* .home-page-banner .content_sec {
+        height: 82vh;
+    }
+    .home-page-banner .image img{
+        height: 82vh;
+    }
+    .home-page-banner .row {
+        min-height: 307px;
+    } */
+    .practice-areas .title{font-size: 21px;}
+
+    :root {
+        --body-size: 15px;
+        --heading-size: 45px;
+        --h1: 45px;
+        --h2: 40px;
+        --h3: 35px;
+        --h4: 30px;
+        --h5: 25px;
+        --h6: 20px;
+    }
+
+    .nav-menu>ul.menu>li {
+        margin: 0 10px;
+    }
+
+    .home-page-banner .banner_heading {
+        font-size: 68px;
+        line-height: 0.8;
+    }
+
+   
+    .home_donation .section_loop_data-wrap .loop_data .icon-line:before {
+        top: -4px;
+    }
+
+    .testimonials-page .testimonials-wrap .testimonials-loop img {
+        height: 350px;
+    }
+
+
+    .team_page .team-data-wrap a .teamcontent {
+        padding: 5px 25px;
+    }
+
+    .team_page .team-data-wrap {
+        padding: 25px 15px;
+    }
+}
+
+@media (max-width:1300px) {
+    .home-page-banner .row {
+        min-height: calc(80vh - 208px);
+    }
+    .header_phone_number {
+        font-size: 14px;
+    }
+    .call-us-today {
+        margin-left: 20px;
+    }
+    body .transparent-btn {
+        font-size: 13px;
+    }
+    :root {
+        --heading-size: 40px;
+        --h1: 45px;
+        --h2: 40px;
+        --h3: 35px;
+        --h4: 30px;
+        --h5: 25px;
+        --h6: 20px;
+    }
+    .inner-page-banner .inner-banner-heading{
+        font-size: 80px;
+    }
+    .post-title a{
+        font-size: 26px;
+    }
+
+    .nav-menu>ul.menu>li {
+        margin: 0 5px;
+    }
+    .nav-menu>ul>li>a {
+        font-size: 15px;
+    }
+
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: calc(100% - 30px);
+    }
+
+    .home-page-banner .banner_heading {
+        font-size: 65px;
+    }
+
+    .team_page .team-data-wrap {
+        padding: 15px 5px;
+    }
+    .practice-areas .title{font-size: 20px;}
+}
+
+@media (max-width:1199px) {
+    /* .home-page-banner .image img{
+        height: 506px;
+        width: calc(51vw - 8px);
+    } */
+	.menu-sidebar .menu-bar-wrapper .menu-item-has-children .sub-menu li .sub-menu {
+    background: #bc9a4c;
+}
+	.menu-sidebar .menu-bar-wrapper li.current-menu-item>a, .menu-sidebar .menu-bar-wrapper li.current-menu-parent>a {
+    background-color: var(--red);
+}
+	.menu-sidebar .menu-bar-wrapper li>a:hover {
+    background-color: var(--red);
+}
+    .home-page-banner .row {
+        min-height: 500px;
+    }
+    .banner-content-wrap {
+        width: 465px;
+    }
+    .right-content-layout{background-image: unset !important;}
+    .award-slider .pa-blk{
+    width: 50%;
+    }
+    .menu-sidebar .menu-bar-wrapper .menu-item-has-children .sidebar-menu-arrow{
+        right: 10px;
+    }
+    .header-logo img{margin-left: -4px;}
+    .nationally-recognized .slick-dots li{background-size: contain;}
+    .nationally-recognized .slick-list{
+        padding-right: 0px;
+    }
+    .schedule-consultation form, .contact-us-section form{
+        text-align: center;
+    }
+    .contact-us-section .custom-btn{text-align: center !important;}
+    .home-blog-post .col-wp:nth-child(2){display: none;}
+    .main-header-wrap{padding: 15px 0px;}
+    .inner-page-banner .image img{
+        -o-object-position: right bottom;
+           object-position: right bottom;
+    }
+    {line-height: 1.3;margin-bottom: 0;}
+    .testimonial-card{padding: 0px 20px;}
+    .right-content-layout .sub-heading{font-size: 20px;}
+    .practice-area-list .pa-blk{
+        min-height: unset;height: 100%;
+    }
+    .practice-area-list .img-sc img{
+        display: none;
+    }
+    .menu-sidebar .menu-bar-wrapper .sub-menu{
+border-top: 1px solid rgba(255, 255, 255, 0.45);
+    }
+    .menu-sidebar .menu-bar-wrapper li .sub-menu li a{padding-left: 35px;}
+    .footer-desc  br{display: none;}
+    .nationally-recognized .heading-sc{margin-bottom: 30px;}
+    footer .address, .nap-global-direction{font-size: 16px;}
+    .header-mobile-menu .header-search{margin-right: 60px;}
+    .call-icon svg{width: 45px;height: 45px;background-color: transparent;border: 1px solid var(--yellow);}
+    .call-us-today{position: absolute;right: 95px;}
+    .header_phone_number{display: none;}
+    .blog-title h2, .blog-title .h2{font-size: 40px;}
+    .paging-new .page-numbers:not(.prev):not(.next), .paging-new .page-numbers.current{
+        width: 40px;height: 40px;
+    }
+    .paging-new .prev.page-numbers, .paging-new .next.page-numbers{height: 40px;font-size:16px;}
+    .search ul.post-list{margin: 0;}
+    .post-title a{font-size: 26px;}
+    .results-section .content-result-forensic{
+        min-height: unset;
+    }
+    .image-background img{
+        opacity: 1;
+    }
+    .content-result-forensic a{
+        position: relative;display: block;
+    }
+    .content-result-forensic a:after{
+        content: '';
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.5);
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    .results-section .content-result-forensic .title-results{
+      z-index: 2;
+    }
+    .results-section .content-result-forensic .title-results{font-size: 20px;}
+    h1, .h1, h2, .h2{line-height: 1.2;}
+    .strength-section svg,.strength-custom-boxes svg{height: 50px;width: auto;}
+    .testimonial-list .top-sec{margin-bottom: 50px;}
+    .testimonial-list .testimonial-card:last-child{margin-bottom: 0;}
+    .testimonial-list .testimonial-card .col-wp{
+        margin-bottom: 40px;
+        padding-left: 60px;
+  padding-right: 60px;
+  background-image: linear-gradient(180deg,rgba(114, 114, 114, 0.14),rgba(114, 114, 114, 0),rgba(114, 114, 114, 0.14));
+    }
+    .tabs-title ul li{padding: 30px 15px;}
+    .tabs-title ul li{font-size: 14px;}
+    .team-list .team-title{line-height: 1;}
+    .team-list .team-content{margin-top: 30px;}
+    .team-list .f-20{font-size: 16px;}
+   .contact-us-section .subheading-content{
+padding-bottom: 30px;
+    }
+    .common-area{
+        gap:30px
+    }
+    .btn{
+        min-width: unset;
+    }
+    .schedule-consultation .sub-heading{margin-bottom: 30px;}
+    .fax-area{padding-bottom: 30px;}
+    .areas-left{padding-right: 0;}
+    .home-blog-post .col-wp{border: none;margin-bottom: 30px;}
+    .home-blog-post .col-wp:last-child{margin-bottom: 0;}
+    .home-page-banner .btn-wrap{margin-top: 40px;}
+    .header-btn-sc{display: none;}
+    .home-page-banner .row{min-height: 400px;}
+    .meet-sec .icon-bottom svg{max-width: 400px;}
+    .slick-dots button{width: 25px;height: 25px;}
+    .call-number{font-size: 24px;}
+    .blog-title{font-size: 25px;}
+    .home-page-banner .banner_content{font-size: 20px;}
+    .practice-areas .title, .right-content-layout .rgt .title,
+    .testimonial-slider .col-title{font-size: 20px;}
+    .right-content-layout .content p{font-size: 18px;}
+    .meet-sec .heading-sc h2{font-size: 60px;}
+    .main-header-wrap .header_menu_apply {
+        display: none !important;
+    }
+/* 
+    .home-page-banner .image {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        display: flex;
+        height: 100%;
+        width: calc(50% + 20px);
+    } */
+
+    .home-page-banner .banner_heading {
+        font-size: 55px;
+    }
+
+   
+
+    .home-page-banner .banner-content-wrap {
+        padding-top: 0px;
+    }
+
+    .header-mobile-menu {
+        position: relative;
+        width: 85%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .header-mobile-menu .menu-button {
+        display: flex;
+        border: 1px solid var(--yellow);
+        margin-left: 15px;
+        width: 45px;
+        height: 45px;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--yellow);border-radius: 50%;
+    }
+
+    .header-mobile-menu .header-search {
+        display: flex;
+        border: 1px solid var(--yellow);
+        margin-left: 15px;
+        width: 45px;
+        height: 45px;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+    }
+    .home_donation .section_loop_data-wrap .loop_data .icon-line:before{
+        display: none;
+    }
+
+    .home-blogs .post-image-box {
+        padding-right: 20px;
+    }
+
+    .inner-page-banner {
+       min-height: 300px;
+    }
+    .who-we-are-page .default-content {
+        padding-right: 0;
+    }
+
+    .testimonials-page .testimonials-wrap .testimonials-loop img {
+        height: auto;
+    }
+    .testimonials-page .testimonials-wrap .testimonials-loop {
+        margin-bottom: 30px;
+    }
+
+    .history-page-about {
+        height: auto;
+        max-height: inherit;
+    }
+
+    .team_page .team-data-wrap a .teamcontent h3 {
+        font-size: 28px;
+    }
+
+    .inner-page-banner .inner-banner-heading {
+        font-size: 45px;
+    }
+
+    .testimonials-page .testimonials-wrap .testimonials-loop img {
+        padding: 10px;
+    }
+    .contact_us_page .form-area {
+    padding: 25px 15px;
+}
+	
+	.static-page .content-area {
+    padding-right: 30px;
+}
+.sidebar div.wpcf7 .wpcf7-form .form-control::-webkit-input-placeholder{font-size: 14px;}
+.sidebar div.wpcf7 .wpcf7-form .form-control::-moz-placeholder{font-size: 14px;}
+.sidebar div.wpcf7 .wpcf7-form .form-control:-ms-input-placeholder{font-size: 14px;}
+.sidebar div.wpcf7 .wpcf7-form .form-control::-ms-input-placeholder{font-size: 14px;}
+.sidebar div.wpcf7 .wpcf7-form .form-control::placeholder,
+.sidebar .widget-menu ul li a{font-size: 14px;}
+}
+
+@media (max-width:1024px) {
+    .home-page-banner .banner_heading {
+        font-size: 45px;
+    }
+
+    .home-page-banner {
+        max-height: 550px;
+    }
+}
+
+@media (max-width: 991px) {
+    .header .transparent-btn.mobile-transparent-btn {
+        margin: 0;
+    }
+    .home-page-banner .row {
+        min-height: 370px;
+    }
+    .nationally-recognized .pa-blk{
+        padding: 0px 20px;
+    }
+    .andrew-section h2{margin-bottom: 20px;}
+    .award-slider .pa-blk .lft{text-align: center;}
+   
+    .radio-section .video-top-box img{width: 100%;}
+    .radio-page .row {
+        --bs-gutter-y: 50px;
+      }
+    .blog-title h2, .blog-title .h2{font-size: 35px;}
+    .static-page h2{font-size: 30px;}
+    .static-page .content-area{padding-right: 15px;}
+    .using-forensic-section  p br{display: none;}
+    /* .meet-sec .heading-sc h2{font-size: 50px;} */
+    h2 br{display: none;}
+    body .meet-sec .btn-wrap{right: 60px;}
+    .meet-sec .btn.white-btn{min-width: unset;}
+    .meet-sec .lft-wp{padding-left: 30px;}
+   .home-page-banner .btn{font-size: 14px;}
+    .modal-dialog{max-width: 90%;}
+    .space-pd{padding: 80px 0px;}
+    .space-mr{margin: 80px 0px;}
+    .call-number a{font-size: 30px;}
+    .nationally-recognized .title{font-size: 20px;}
+    .single-post .content-area{margin-top: 40px;}
+    .sidebar{margin-top: 60px;}
+    .radio-page  .video-heading{font-size: 24px;}
+    .tabs-content{padding: 50px 30px;}
+    .team-list .rgt, .team-outer-wp:nth-child(2n) .rgt{padding: 50px;}
+    .Custom-boxes svg{
+        width: 50px;
+        height: auto;
+        right: 15px;
+        bottom: 20px;
+    }
+    .media-heading{font-size: 24px;}
+    .contact-us-section .form-code{margin-top: 40px;}
+    .common-area{
+        gap: 80px;
+    }
+    .right-content-layout{background: unset !important;}
+    .banner-content-wrap{z-index: 11;}
+    .home-page-banner .image img{width: 100vw;
+        right: 16px;}
+    .banner-content-wrap {
+        width: 361px;
+    }
+    .home-page-banner .banner_content {
+        font-size: 19px;
+    }
+    .home-page-banner .btn-wrap {
+        margin-top: 30px;
+    }
+    .testimonial-card{padding-left: 20px;padding-right: 20px;}
+    .meet-sec .img-sc img, .meet-sec .btn-wrap{right: 20px;}
+    .award-wrp{padding-left: 40px;padding-right: 40px;}
+    .nationally-recognized .slick-list{padding-right: 0;}
+    .right-content-layout::after {
+       
+        background: rgba(255, 255, 255, 0.6);
+      }
+
+    /* :root {
+        --heading-size: 35px;
+        --h1: 35px;
+        --h2: 30px;
+        --h3: 25px;
+        --h4: 22px;
+        font-size: 15px;
+    } */
+
+   .btn{font-size: 16px;}
+
+    /* .home-page-banner .image {
+        width: calc(50% + 60px);
+    } */
+
+    .home_about .row > div:first-child {
+        margin-bottom: 30px;
+    }
+    .home_donation .section_loop_data-wrap .loop_data .icon svg {
+        width: 60px;
+        height: 60px;
+    }
+
+    .home_donation .section_loop_data-wrap .loop_data .icon {
+        padding: 35px;
+    }
+
+    .main-header-top .social-media {
+        max-width: 300px;
+    }
+
+    .main-header-top .call-us-today {
+        max-width: 300px;
+    }
+
+    .home_contact_us .form-area {
+        margin-top: 25px;
+    }
+
+    footer .column-3 {
+        padding: 15px 0px;
+    }
+
+    footer .footer-copyright {
+        font-size: 14px;
+    }
+
+    .history-page-about .content-area {
+        padding-left: 100px;
+    }
+    .history-page-about {
+        background-position: 45% 100%;
+    }
+
+    .team-single-page .row {
+        flex-direction: column-reverse;
+    }
+
+    .team-single-page .row .sidebar {
+        margin-bottom: 20px;
+    }
+
+    .what-we-do-page .row, .who-we-are-page .row, .history-page .row, .get-involve-page .row {
+        flex-direction: column-reverse;
+    }
+
+    .who-we-are-page .content-wrap, .what-we-do-page .content-area, .history-page .default-content, .get-involve-page .content-wrap{
+        margin-top: 40px;
+    }
+}
+@media (min-width:992px){
+    .blog-listing .list-content{
+margin-top: -50px;
+    }
+}
+@media (min-width:768px){
+    .schedule-consultation .address{line-height: 1;}
+    .schedule-consultation .business-name{font-size: 24px; color:black;}
+}
+@media (max-width: 767px) {
+
+    .sidebar .widget-menu{
+        padding: 30px 20px;
+    }
+    .banner-content-wrap {
+        width: 100%;
+    }
+    .home-page-banner .content_sec{
+        padding: 0px 0px;
+    }
+    .home-page-banner .mobile_content{
+        padding: 20px 30px;
+    }
+    .home-page-banner .content_sec{
+        order: 2;
+    }
+    .home-page-banner .image_wrap{
+        order: 1;
+        padding: 0;
+    }
+    .home-page-banner .content_sec {
+        height: 100%;
+    }
+    .testimonial-slider .col-title:before{
+        top: 6px;
+    }
+    .sidebar div.wpcf7 .wpcf7-form .form-control{
+        font-size: 14px !important;
+        padding: 5px;
+    }
+    .paging-new .page-numbers:not(.prev):not(.next), .paging-new .page-numbers.current {
+        width: 30px;
+        height: 30px;
+      }
+    .areas-served ul li{padding-left: 15px;}
+    .schedule-consultation .sub-heading{
+        font-size: 18px;margin-top: 10px;
+    }
+    .home-page-banner .banner_heading{font-size: 40px;line-height: 1.1;}
+   .home-testimonial .testimonial-card{
+    padding-left: 15px;padding-right: 15px;
+   }
+    .bold-ul li{
+        font-size: 20px;line-height: 1.3;
+       }
+      body .static-page .list-style .bold-ul li:before{
+        top: 18px;
+       }
+     
+    .paging-new .prev.page-numbers, .paging-new .next.page-numbers{
+        font-size: 0;
+        width: 30px;
+        height: 30px;
+        background-position: center;
+        background-image: url(../img/left-arrow.svg);
+        background-repeat: no-repeat;
+        background-size: 20px;
+    }
+    .paging-new .next.page-numbers{
+        transform: rotate(180deg);
+    }
+    .footer-nap-row{justify-content: space-between;}
+    .home-blog-post .blog-title{margin-bottom: 35px;}
+    .copyright-privacy{justify-content: flex-start;}
+    .copyright-privacy p{margin-bottom: 10px;}
+    .copyright-privacy p:last-child{margin-bottom: 0;}
+    .sapn2{
+        display: none;
+    }
+    .blog-col:first-child .outer-info-box{padding-top: 10px;}
+    .post-list .outer-info-box{padding: 20px 0px;}
+    .home-blog-post .image-icon{margin-top: 5px;}
+    .home-testimonial .slick-dots{padding-top: 50px;}
+   
+    .testimonial-card .content {
+        margin-bottom: 15px;
+    }
+    .testimonial-slider .col-title{padding-top: 15px;}
+    .testimonial-slider .col-title:before, .testimonial-slider .col-title:after{
+        width: 15px;height: 15px;
+    }
+    .meet-sec .heading-sc br{display: block;}
+    .home-page-banner .banner_heading{
+        width: 300px;
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 84%;
+    }
+    .home-page-banner .btn-wrap {
+        margin-top: 30px;
+    }
+    .home-page-banner .top-content{
+        width: 100%;
+    }
+    header{
+        background-color: rgba(25, 25, 25, 1);
+    }
+    select {
+background-size: 15px !important;
+    }
+    ul li::before{
+        top: 13px;
+    }
+    .schedule-consultation .heading-sc h2 br{display: block;}
+    .areas-served ul li{margin-bottom: 0;}
+    .home-blog-post .btn-wp{margin-top: 30px;}
+    .inner-page-banner{min-height: 300px;padding: 40px 0px;align-items: center;}
+    .inner-page-banner .image img{display: none;}
+    .home-blog-post .blog-title{text-align: left;}
+    body .home-blog-post .col-wp{padding: 0;}
+    body .meet-sec .btn-wrap{width: 100%;right: 0;}
+    .why-hire-me .btn-wrap{margin-top: 20px;}
+    .right-content-layout .heading-sc{margin-top: -20px;}
+    .practice-areas .pa-blk{margin-bottom: 20px;}
+    .banner-content-wrap {position: relative;}
+    .home-page-banner .btn-wrap{z-index: 22;
+    bottom: 40px;left: 0;right: 0;text-align: center;}
+    .home-page-banner .container{padding: 0;margin: 0;max-width: 100%;}
+    .home-page-banner .row{min-height: unset;max-height: unset;padding-bottom: 0;}
+    .home-page-banner{max-height: unset;}
+    .home-page-banner .image img, .home-page-banner .image{
+        position: relative;width: 100%;
+        height: auto;
+        left: unset;
+        right: unset;
+        top: unset;
+        height: 510px;
+        -o-object-fit: cover;
+           object-fit: cover;
+    }
+    .home-page-banner .banner_content{font-size: 14px;letter-spacing: 1px;}
+    .social-media ul{margin: 0;}
+    .social-media ul li{margin: 0px 22px;}
+    .social-media ul{justify-content: flex-start;}
+    footer .address, .nap-global-direction{font-size: 14px;}
+    .footer-logo{margin-bottom: 0;}
+    .footer-phn-no{margin: 20px 0px;}
+    .footer-phn-no{text-align: center;}
+    .footer-nap-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    footer .footer-copyright{margin-top: 30px;}
+
+    .footer-address{padding-left: 0;margin-bottom: 40px;}
+    footer .footer-copyright{text-align: left;}
+   body .schedule-consultation{
+    padding: 60px 0px;
+        margin: 0;
+    background: linear-gradient( rgba(114, 114, 114, 0.14), rgba(114, 114, 114, 0), rgba(114, 114, 114, 0.14));
+    }
+    .areas-served .map-sc iframe{box-shadow: unset;}
+    body .areas-served{padding-bottom: 0;}
+    .areas-served ul.list-col-2{
+        -moz-column-count: 2;
+             column-count: 2;
+        -moz-column-gap: 15px;
+             column-gap: 15px;
+    }
+    .areas-served .heading-sc{margin-bottom: 30px;}
+    .home-blog-post .image-icon{margin-bottom: 20px;}
+    .home-blog-post .btn-wp .btn{width: 100%;}
+    .testimonial-slider .slick-dots{margin-top: 20px;}
+    .testimonial-slider .slick-dots li{padding: 0;margin: 0px 15px;}
+    .home-testimonial .heading-sc{text-align: left;margin-bottom: 40px;}
+    .mt-negative{margin-top: 0;}
+    .testimonial-card{padding: 0;}
+    .meet-sec .img-sc img{
+    right: -90px;
+  width: 80%;
+  height: 100%;bottom: -40px;-o-object-fit: contain;object-fit: contain;
+}
+.home-testimonial{text-align: left;}
+    .meet-sec .outer-wp{padding: 40px 0px;}
+    .meet-sec .btn-wrap{margin-top: 40px;}
+    .meet-sec .btn-wrap{position: relative;left: unset;right: unset;top: unset;text-align: center;}
+    .meet-sec .btn-wrap .btn{min-width: 180px;}
+   body .meet-sec{padding-top: 0;padding-bottom: 0;}
+    .meet-sec .lft-wp{padding-left: 20px;padding-top: 0;}
+    .meet-sec .heading-sc h2{font-size: 30px;}
+    .nationally-recognized .slick-dots:before{
+        content: none;
+    }
+    .meet-sec .icon-bottom svg{width: 230px;max-width: 100%;}
+    .meet-sec .content{max-width: 100%;width: 250px;max-width: 100%;}
+    .nationally-recognized .slick-dots {justify-content: center;margin-left: auto;margin-right: auto;}
+    .nationally-recognized .slick-dots li{
+        background: none;opacity: 1;
+        flex: unset;
+        height: unset;
+        width: unset;
+        margin: 0px 10px;
+    }
+    .nationally-recognized .title{line-height: 1.1;margin-top: -10px;}
+    .nationally-recognized .icon-sc{margin-top: 12px !important;}
+    .nationally-recognized .slick-dots li button{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: 1px solid var(--yellow);
+        background-color: rgba(255, 255, 255, 0.1);
+        opacity: 1;
+    }
+    .nationally-recognized .slick-dots li.slick-active button{
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+    .nationally-recognized .slick-dots li.slick-active button{border: 1px solid white;}
+    .video-boxes svg{
+        width: 45px;
+        height: 45px;
+    }
+    .radio-page .video-heading{font-size: 20px;}
+    .case-title{font-size: 20px;}
+    .case-content{font-size: 16px;}
+    .right-content-layout .btn-wrap .btn{width: 100%;}
+    .practice-areas .title{font-size: 16px;}
+   .blog .post-list .info-box {
+        padding: 30px 0px 20px 0px;
+      }
+    .blog-button{font-size: 16px;}
+    .blog-content{font-size: 16px;}
+    .paging-new .nav-links{flex-wrap: wrap;}
+    .paging-new .page-numbers:not(.prev):not(.next), .paging-new .page-numbers.current,
+    .paging-new .prev.page-numbers, .paging-new .next.page-numbers{
+        margin: 5px 5px;
+    }
+.post-title a{font-size:22px};
+    .post-list .info-box{padding: 10px 0px 30px 0px}
+    .sidebar div.wpcf7 .wpcf7-form .form-control{padding-top: 15px;padding-bottom: 15px;}
+ul.list-col-2{-moz-column-gap: 0px;column-gap: 0px;-moz-column-count: 1;column-count: 1;}
+    .payment-section .inner-content{
+        padding: 40px 20px;
+    }
+    .payment-section .sub-title{font-size: 20px;}
+    .testimonial-list .testimonial-card .col-wp, .testimonial-list .testimonial-card:nth-child(3n) .col-wp{
+        padding: 30px 15px;
+    }
+    .testimonial-card .content, .testimonial-card .content *{font-size: 16px;}
+    .testimonial-list .col-title{font-size: 20px;}
+    .tabs-title ul {
+        flex-wrap: wrap;border-bottom: unset;
+    }
+   .testimonial-list .paging-new .pagination{
+margin-top: 10px;
+    }
+    .testimonial-list .row1 {
+        --bs-gutter-x: 0px;
+      }
+    .tabs-title ul li:last-child{border-bottom: 1px solid #C2C2C2;}
+    .tabs-title ul li{flex: unset;width: 100%;border-bottom: 1px solid #C2C2C2;}
+    .tabs-title ul li {
+        padding: 20px 15px;
+      }
+    .tabs-content{padding: 40px 20px;}
+    .team-list .team-title{font-size: 25px;}
+    .team-list .rgt, .team-outer-wp:nth-child(2n) .rgt{padding: 60px 15px;}
+    .testimonial-list .top-sec p, .team-list .top-sec p{font-size: 16px;}
+    .bg-contact-color{
+        padding: 60px 10px;
+    }
+    .iframesection iframe{
+        height: 400px;
+    }
+    .common-area{
+        display: block;
+        gap: 0;
+    }
+    .contact-us-section .office-flex{margin-top: 30px;}
+    .contact-us-section .call-number,
+    .contact-us-section .fax-area .address{font-size: 20px;}
+    .schedule-consultation .btn{min-width: 100%;}
+    h1, .h1, h2, .h2{line-height: 1;}
+    .areas-served .container{padding: 0;margin: 0;max-width: 100%;}
+    .areas-served .areas-left{padding: 0px 20px;}
+    .space-mr{margin: 50px 0px;}
+    .areas-served iframe{height: 400px;border-radius: 0;}
+    .home-blog-post .lft img{width: 100%;}
+    .home-testimonial .btn-wp .btn,
+    .home-blog-post .btn-wp .btn{min-width: unset;}
+    .meet-sec .bg-image img{height: 100%;top: 0;-o-object-fit: cover;object-fit: cover;}
+    .meet-sec .container{padding: 0;margin: 0;max-width: 100%;}
+    .meet-sec{padding: 0;}
+    svg{max-width: 100%;}
+    .right-content-layout .btn-wrap .btn{min-width: unset;}
+    .award-wrp{padding-left: 0;padding-right: 0;}
+    .btn{font-size: 14px;padding: 15px 20px;}
+    .right-content-layout .btn-wrap{margin-top: 30px;}
+    .right-content-layout .heading-sc, .right-content-layout .sub-heading{text-align: center;}
+    .right-content-layout .sub-heading,
+    .right-content-layout .content p,
+    .nationally-recognized .content{font-size: 16px;}
+    .space-pd{padding: 50px 0px;}
+    .space-pd{font-size: 16px;}
+    .practice-areas .pa-blk{padding: 28px 10px;}
+    .mb-t{margin-bottom: 40px;}
+    .practice-areas .title::before, .practice-areas .title:after{
+width: 17px;
+    }
+    .right-content-layout .heading-sc{margin-top: 0px;}
+    .pd-lg{
+        padding: 50px 0px;
+    }
+    .practice-areas .title {
+        padding: 0px 35px;
+    }
+    :root {
+        --heading-size: 30px;
+        --h1: 35px;
+        --h2: 30px;
+        --h3:25px;
+        --h4:22px;
+        --h5:20px;
+        --h6:18px;
+    }
+    .static-page h2 {
+        font-size: 30px;
+    }
+
+    .static-page h3 {
+        font-size: 25px;
+    }
+
+    .static-page h4 {
+        font-size: 22px;
+    }
+    .main-header-wrap {
+        padding: 10px 0px;
+      }
+    .main-header-wrap .header-logo {
+        max-width: 150px;
+        padding: 0 0px 0px 15px;
+    }
+    .header-mobile-menu .header-search {
+        margin-right: 50px;
+      }
+    .call-us-today{right: 75px;}
+    .call-icon svg{margin-right: unset;}
+    .meet-sec{overflow-x: hidden;}
+    .header-rgt{
+max-width: calc(100% - 150px);
+    }
+    .header-mobile-menu {
+        max-width: 100%;width: 100%;
+        padding: 0;
+    }
+
+.main-header-top .header_phone_text {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    bottom: -3px;
+    font-size: 0;
+}
+
+    .main-header-top .call-us-today {
+        max-width: 170px;
+        padding: 0;
+    }
+
+    .main-header-top .call-us-today .header_phone_text {
+        margin-right: 0px;
+    }
+    .main-header-top .social-media ul li {
+        height: 30px;
+        width: 30px;
+        line-height: 25px;
+        margin-right: 5px;
+    }
+	.main-header-top .social-media ul li svg, .main-header-top .social-media ul li img {
+    width: 14px;
+    height: 14px;
+}
+	
+	.main-header-top .social-media ul li a {
+    height: 30px;
+    width: 30px;
+}
+    .main-header-top .social-media {
+        max-width: 165px;
+        padding: 0;
+    }
+
+    .home-page-banner {
+        max-height: unset;
+    }
+
+    .home_donation .section_loop_data-wrap .loop_data {
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .home-blogs .post-image-box {
+        width: 100%;
+        max-width: 100%;
+        padding-right: 45px;
+        padding: 0;
+    }
+
+    .home-blogs .post-content-box {
+        max-width: 100%;
+    }
+
+    .home-blogs .post-content-box {
+        margin-top: 15px;
+    }
+
+    .common-pd, .section-pd {
+        padding: 70px 0px;
+    }
+
+    footer .column-2 ul li {
+        padding: 0px 5px;
+    }
+
+    .footer-social ul li {
+        margin-right: 15px;
+    }
+
+    .who-we-are-page .default-content {
+        margin-bottom: 20px;
+    }
+
+    .inner-page-banner .inner-banner-heading {
+        font-size: 30px;width: 100%;
+    }
+
+
+    .history-page .default-content {
+        margin-bottom: 20px;
+    }
+
+    .team-single-page .row {
+        flex-direction: column-reverse;
+    }
+
+    .team-single-page .row .team-single-feature {
+        margin-bottom: 15px;
+    }
+
+    .what-we-do-page .default-content {
+        padding-right: 0px;
+    }
+
+    .get-involve-page .btn-wrap {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .get-involve-page .btn-wrap a.button {
+        margin-bottom: 20px;
+    }
+
+    .get-involve-page .image-wrap img {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .bloglist .info-box .post-image {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .bloglist .info-box .post-desc {
+        max-width: 100%;
+        padding-left: 0;
+    }
+
+    .history-page-about {
+        background-position: 100% 100%;
+    }
+
+    .history-page-about .content-area {
+        padding-left: 15px;
+    }
+    .contact_us_page .contact_information_wrap {
+        position: static;
+        max-width: 100%;
+    }
+    .award-slider .pa-blk .lft img{
+        max-width: 200px;margin-left: auto;margin-right: auto;
+    }
+    .contact_us_map {
+        margin-top: 50px;
+    }
+    .contact_us_page .form-area {
+        padding: 15px 10px;
+    }
+    .right-content-layout .sub-heading{font-size: 18px;width: 240px;max-width: 100%;margin-left: auto;
+    margin-right: auto;line-height: 1.1;}
+    .right-content-layout  .icon-wrap .lft svg{
+        width: 55px;height: 55px;
+    }
+    .meet-sec .heading-sc, .meet-sec .content {padding-left: 10px;}
+    /* .heading-sc{margin-bottom: 0px;} */
+    .meet-sec .outer-wp .icon-bottom {
+        margin-bottom: 0px !important;
+      }
+	  
+	  .form-control {
+			padding: 15px 5px 15px 5px;
+		}
+		
+		.form-code .form-control {
+		font-size: 12px;
+	}
+	
+	.contact-us-section .container, .static-page .container, 
+	.schedule-consultation .container{
+    max-width: 100%;
+}
+
+
+.sidebar div.wpcf7 .wpcf7-form .form-control::-webkit-input-placeholder{font-size: 12px;}
+
+
+.sidebar div.wpcf7 .wpcf7-form .form-control::-moz-placeholder{font-size: 12px;}
+
+
+.sidebar div.wpcf7 .wpcf7-form .form-control:-ms-input-placeholder{font-size: 12px;}
+
+
+.sidebar div.wpcf7 .wpcf7-form .form-control::-ms-input-placeholder{font-size: 12px;}
+
+
+.sidebar div.wpcf7 .wpcf7-form .form-control::placeholder,
+.sidebar .widget-menu ul li a{font-size: 12px;}
+
+.schedule-consultation .form-control{
+	font-size: 12px;
+}
+
+
+}
+
+@media (max-width: 575px) {
+    .testimonials-page .testimonials-wrap .testimonials-loop {
+        width: 100%;
+        padding: 0px 0px;
+    }
+    .memories-page .other-child {
+        width: 50%;
+    }
+    footer .footer-copyright {
+        font-size: 13px;
+    }
+}
+@media (min-width:428px) and (max-width:500px){
+    h2, .h2{font-size: 36px;}
+    .home-page-banner .banner_content{padding-bottom: 7px;}
+    .home-page-banner .icon-image{margin: 0;}
+    .home-page-banner .banner_content{width: 300px;max-width: 100%;margin-left: auto;margin-right: auto;}
+    .main-header-wrap .header-logo{
+        max-width: 227px;
+    }
+    .home-page-banner .banner_content{
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 120%;
+        letter-spacing: 4px;
+    }
+  
+    .header-rgt {
+        max-width: calc(100% - 227px);
+      }
+      .meet-sec .heading-sc h2{
+        font-size: 36px;
+      }
+}
+@media (min-width:768px) and (max-width:780px){
+    body .schedule-consultation{margin-top: 0;margin-bottom: 0;}
+    .nationally-recognized .content{text-align: center;}
+    .why-hire-me .row {
+        --bs-gutter-x: 20px;
+      }
+    .meet-sec .heading-sc h2{font-size: 40px;}
+    .meet-sec .icon-bottom svg{max-width: 300px;}
+    .meet-sec .btn.white-btn{padding-top: 12px;padding-bottom: 12px;}
+    body .meet-sec{padding-top: 60px;}
+    .meet-sec .img-sc img {
+       
+        height: calc(100% + 120px);
+       
+      }
+    body .meet-sec .btn-wrap {
+        right: 35px;
+      }
+      .meet-sec .img-sc img, .meet-sec .btn-wrap {
+        right: 0px;
+      }
+      body .schedule-consultation{
+        padding: 60px 0px;
+      }
+      .pd-lg, .space-pd{
+        padding: 60px 0px;
+    }
+    .space-mr{margin: 60px 0px;}
+
+}
+@media(min-width:768px) and (max-width:1199px){
+   .home-blog-post .blog-title{
+margin-top: 20px;
+    }
+    .practice-areas .pa-blk{margin-bottom: 0;height: 100%;}
+    .practice-areas .row {
+        --bs-gutter-y: 40px;
+      }
+      .bg-contact-color{
+        padding-bottom: 60px;
+      }
+}
+@media(min-width:991px) and (max-width:1199px){
+    .blog-listing .list-content .info-box .post-desc {
+    padding: 0 30px;
+}
+    .home-blog-post .blog-title{font-size: 35px;}
+    .home-blog-post p{font-size: 20px;}
+    .blog-card .lft{
+        padding-right: 0;
+    }
+    .home-page-banner .mobile_content {
+    padding: 0 40px;
+}
+}
+@media (min-width:1200px) and (max-width:1255px){
+    .header_phone_number{
+        font-size: 13px;
+    }
+    .main-header-wrap .header-logo {
+        max-width: 200px;
+      }
+    .header-rgt {
+        max-width: calc(100% - 200px);
+      }
+}
+@media (min-width:1350px) and (max-width:1800px){
+   body .right-content-layout{
+        background-position: -150px center !important;
+        background-color: white;
+    }
+}
+@media (min-width:1200px) and (max-width:1350px){
+    body .right-content-layout{
+         background-position: -250px center !important;
+         background-color: white;
+     }
+ }
+
+
+.mobile-transparent-btn {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    background: var(--yellow);
+    color: #fff;
+	    border: none;
+}
+.home .shrink .mobile-transparent-btn {
+    margin-top: 27px;
+}

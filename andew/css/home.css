@@ -1,0 +1,234 @@
+/***********Banner**********/
+
+
+/*.home-page-banner {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    
+}*/
+.home-page-banner {
+    position: relative;
+    max-height: 650px;
+   
+}
+.home-page-banner .row{
+    height:auto;
+}
+
+.home-page-banner .content_sec{
+    background: linear-gradient(260deg, #000000 25%, #632110);
+    align-content: center;
+}
+.banner-content-wrap {
+    z-index: 9;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    width: 750px;
+    justify-self: center;
+    padding: 40px 0 !important;
+}
+
+.home-page-banner .image{
+    line-height: 0;
+    width: 100%;
+    height: 100%;
+    max-height: 650px;
+
+}
+.home-page-banner .image img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+}
+
+@media screen and (max-width:600px) {
+    .home-page-banner .image{
+        height: 330px !important;
+    }
+    .home-page-banner .image img {
+        height: 330px !important;
+    }
+}
+
+.home-page-banner .banner_heading {
+    color: #FFF;
+    font-size: 60px;
+    line-height: 1;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 20px;
+    background: linear-gradient(188.93deg, #EED499 11.57%, #C9A95F 37.54%, #C8B27F 57.12%, #D3BC86 62.8%, #EED499 75.89%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.home-page-banner .btn-wrap{
+    margin-top: 40px;
+}
+.home-page-banner .icon-image{margin: 10px 0px;}
+.home-page-banner .banner_content {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 15px 0px;letter-spacing: 9px;
+    max-width: 600px;
+    margin:0 auto;
+}
+
+.lft svg path {
+    fill: #917129;
+}
+
+.practice-areas .heading-sc span {
+    background: radial-gradient(#EED499, #C9A95F, #C9A95F, #C8B27F, #EED499);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.meet-sec .heading-sc span {
+    background: radial-gradient(#EED499, #C9A95F, #C9A95F, #C8B27F, #EED499);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.right-image-layout .icon-wrap svg{
+    height: 60px;width: auto;
+}
+.why-hire-me{background-color: #AF9046;}
+.why-hire-me  li:before{
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/li-icon.svg);
+    background-size: contain;background-color: transparent;
+    top: 6px;
+}
+.why-hire-me  li{
+    padding-left: 50px;padding-bottom: 0;margin-bottom: 20px;
+}
+
+.home-blog-post .col-wp{border-right:2px solid var(--yellow)}
+.home-blog-post .col-wp:last-child{border: none;}
+
+
+.practice-heading h2{
+color:white;
+}
+.heading-sc span {
+    color: var(--heading-color);
+}
+.why-hire-me .icon-sec{margin: 30px 0px;}
+.why-hire-me ul{padding-left: 0;}
+.heading-sc.wt-blk h2{color: white;}
+.heading-sc.wt-blk h2 span{color: var(--black);}
+
+.inner-right-content{
+position:relative;
+z-index:9;
+}
+.practice-areas .content {
+    padding-bottom: 10px;
+}
+
+.right-content-layout .rgt .title{
+    color: #917129;
+    font-size: 26px;font-weight: 500;line-height: normal;
+    
+}
+.right-content-layout .icon-wrap {
+    gap: 30px;
+    padding:37px 0px;	
+}
+.right-content-layout .btn-wrap .btn{
+    min-width: 420px;
+    background: linear-gradient(0deg, #AF9046 0%, #917129 49.52%, #AF9046 100%);
+    color:white;
+}
+
+.right-content-layout .btn-wrap .btn:hover{
+    min-width: 420px;
+    background: white;
+    color:#1B2D38;
+}
+
+
+.right-content-layout .content p{font-size: 20px;font-weight: 300;}
+.right-content-layout .sub-heading{
+font-size:24px;font-weight: 300;
+}
+.right-content-layout .btn-wrap{margin-top: 63px;}
+.right-content-layout .banner_content {
+    padding-bottom: 20px;
+}
+.home-blog-post .lft a{display: block;overflow: hidden;}
+.home-blog-post .lft img{
+    transition: all 0.5s;
+}
+.home-blog-post .lft a:hover img{
+    transform: scale(1.1);transition: all 0.5s;
+}
+.blog-title {
+    color: #C9A95F;
+    font-size: 28px;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+.blog-title:hover{
+    color: white;
+}
+.home-blog-post .img-fluid {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+}
+.why-hire-me{overflow-x: hidden;}
+.home-blog-post .lft a {
+    width: 100%;
+    height: 277px;
+}
+.home-blog-post{
+    background: linear-gradient(360deg, #000000 40%, #632110);
+}
+.home-blog-post p {
+    color: white;
+}
+.heading-image{
+    margin-bottom: 50px;
+}
+.icon-bottom img {
+    width: 380px;
+    height: 100%;
+}
+
+
+
+.mt-negative{margin-top: -20px;}
+
+
+.home-blog-post .heading-sc h2, .home-blog-post .heading-sc .h2{color: white;}
+.home-blog-post .image-icon{
+    margin-top: 20px;margin-bottom: 60px;
+}
+.home-blog-post .btn-wp{margin-top: 50px;}
+.home-blog-post .btn-wp .btn{min-width: 453px;transition:  all 0.5s;}
+.home-blog-post .btn-wp .btn:hover{background: white;color: var(--yellow);transition:  all 0.5s;}
+.blog-card .lft{padding-right: 20px;}
+.areas-served .heading-sc{margin-bottom: 50px;}
+.areas-served iframe{border-radius: 25px;width: 100%;height: 100%;}
+.areas-served  ul{padding-left: 0;}
+.areas-left{padding-right: 150px;}
+
+.criminal_section{
+    background-color: #AF9046;
+}
+.criminal_section .icon-sec{
+    margin: 30px 0px;
+}
