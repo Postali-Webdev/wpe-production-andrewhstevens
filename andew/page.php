@@ -56,6 +56,7 @@ get_template_part('inc/inner', 'banner');
                                 <li class=""><a href="/athens-assault-lawyer/felony/">Felonious Assault </a></li>
                                 <li class=""><a href="/lancaster-criminal/murder-homicide-lawyer/">Murder </a></li>
                                 <li class=""><a href="/athens-theft-lawyer/robbery/">Robbery </a></li>
+                                <li class=""><a href="/lancaster-criminal/lancaster-violent-crimes-lawyer/kidnapping/ ">Kidnapping </a></li>
                             </ul>
                         </div>
                     </div>
