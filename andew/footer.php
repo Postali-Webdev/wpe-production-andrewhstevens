@@ -118,6 +118,7 @@ endif;
 <?php get_template_part('inc/schema/org', 'schema'); ?>
 <?php get_template_part('inc/schema/faq', 'schema'); ?>
 <?php get_template_part('inc/schema/event', 'schema'); ?>
+<?php get_template_part('inc/schema/page', 'schema'); ?>
 <script>
     <!--  function to defer image.    -->
     function init() {
